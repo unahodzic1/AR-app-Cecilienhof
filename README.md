@@ -10,7 +10,7 @@ Video demonstracije aplikacije možete pogledati [ovdje](https://drive.google.co
 
 1. Preuzmite .apk file iz sekcije [Releases](https://github.com/unahodzic1/AR-app-Cecilienhof/releases/tag/v.1.0.1).
 2. Instalirajte aplikaciju na Android uređaj.
-3. Preuzmite i otvorite sliku image_recognition.jpg koja se nalazi u istom release-u.
+3. Preuzmite i otvorite sliku ImageRecognitionSlika.jpg koja se nalazi u istom release-u.
 4. Pokrenite aplikaciju i dozvolite pristup kameri.
 5. Usmjerite kameru prema slici za prepoznavanje.
 
